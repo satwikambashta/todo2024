@@ -3,12 +3,7 @@
 This is the backend for the Todo App, built with Node.js. It provides an API for user authentication, task management (create, update, delete), and more.
 LIVE AT: https://todo2024-jvl1.onrender.com/api/v1/
 
-## Features
-- User registration
-- User login
-- User profile management
-- Task creation, fetching, updating, and deletion
-- CORS enabled for frontend integration
+**OR YOU CAN CLONE THE GITHUB REPOSITORY AND RUN IT ON LOCALHOST:5000**
 
 ## API Endpoints
 
@@ -76,6 +71,7 @@ The backend will run on `http://localhost:5000` by default.
 
 ## CORS
 To allow your frontend to connect to the API, ensure that the frontend's domain is added to the allowed URLs in CORS. You can contact me on [LinkedIn](https://www.linkedin.com/in/satwik-saurav-a058aa21b/) to request access.
+OR YOU CAN CLONE THE GITHUB REPOSITORY AND RUN IT ON LOCALHOST:5000
 
 ## License
 This project is open-source and available under the MIT License.
