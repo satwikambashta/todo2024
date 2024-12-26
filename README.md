@@ -15,7 +15,7 @@ LIVE AT: https://todo2024-jvl1.onrender.com/api/v1/
 ### User Endpoints
 - **Register** (POST): `/api/v1/users/new`  
   Registers a new user.
-  - Request body: `{ "email": "user@example.com", "password": "password" }`
+  - Request body: `{ "name": "userm", "email": "user@example.com", "password": "password" }`
   
 - **Login** (POST): `/api/v1/users/login`  
   Logs in a user.
